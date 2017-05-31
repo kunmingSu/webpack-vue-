@@ -1,0 +1,44 @@
+{
+    "books": [
+        {
+            "price": "12.60",
+            "title": "大学",
+            "img": "http://img3x3.ddimg.cn/42/23/24162873-1_b_6.jpg"
+        },
+        {
+            "price": "30.80",
+            "title": "中庸",
+            "img": "http://img3x9.ddimg.cn/96/22/20589819-1_b_3.jpg"
+        },
+        {
+            "price": "31.40",
+            "title": "论语",
+            "img": "http://img3x7.ddimg.cn/64/17/22674727-1_b_4.jpg"
+        },
+        {
+            "price": "35.60",
+            "title": "孟子",
+            "img": "http://img3x0.ddimg.cn/87/13/20589810-1_b_3.jpg"
+        },
+         {
+            "price": "12.60",
+            "title": "大学",
+            "img": "http://img3x3.ddimg.cn/42/23/24162873-1_b_6.jpg"
+        },
+        {
+            "price": "30.80",
+            "title": "中庸",
+            "img": "http://img3x9.ddimg.cn/96/22/20589819-1_b_3.jpg"
+        },
+        {
+            "price": "31.40",
+            "title": "论语",
+            "img": "http://img3x7.ddimg.cn/64/17/22674727-1_b_4.jpg"
+        },
+        {
+            "price": "35.60",
+            "title": "孟子",
+            "img": "http://img3x0.ddimg.cn/87/13/20589810-1_b_3.jpg"
+        }
+    ]
+}
